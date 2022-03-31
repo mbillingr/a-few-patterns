@@ -2,6 +2,8 @@ from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from math import sqrt
 
+print("CHAPTER 2")
+
 
 @dataclass
 class PointD(ABC):

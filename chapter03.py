@@ -1,6 +1,8 @@
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 
+print("CHAPTER 3")
+
 
 class Pizza(ABC):
     @abstractmethod
